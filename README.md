@@ -17,7 +17,7 @@ $ python2 ddos.py <ip> <port> <packet>
 
 ===============================================================================
 
-Contact Me:
+# Contact Me:
 WhatsApp : https://api.whatsapp.com/send?phone=62859181977385
 
 Messenger : https://m.me/Tn.BoyK07
