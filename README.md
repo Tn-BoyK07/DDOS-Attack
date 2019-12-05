@@ -20,4 +20,6 @@ $ python2 ddos.py <ip> <port> <packet>
 # Contact Me:
 WhatsApp : https://api.whatsapp.com/send?phone=62859181977385
 
+Facebook : Abbot Tak Terimo
+
 Messenger : https://m.me/Tn.BoyK07
